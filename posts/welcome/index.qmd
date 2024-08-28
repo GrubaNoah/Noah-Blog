@@ -1,12 +1,12 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "BEEEB"
 date: "2024-08-24"
-categories: [news]
+categories: [me]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Hi I'm noah and i'm silly
 
-![](thumbnail.jpg)
+![](images/headshot.jfif)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+imma try adding a picture
