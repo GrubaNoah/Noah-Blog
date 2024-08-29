@@ -1,12 +1,12 @@
 ---
 title: "Welcome To My Blog"
-author: "BEEEB"
+author: "Noah Gruba"
 date: "2024-08-24"
 categories: [me]
 ---
 
-Hi I'm noah and i'm silly
+Hi I'm Noah and I hope you enjoy my page!
 
 ![](images/headshot.jfif)
 
-imma try adding a picture
+Here is a photo of me!
