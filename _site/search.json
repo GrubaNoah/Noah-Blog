@@ -7,11 +7,11 @@
     "text": "Hi I’m Noah and I hope you enjoy my page!\n\nHere is a photo of me!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Noah's Class Blog",
+    "objectID": "posts/First Post/First-blog-SIEVE.html",
+    "href": "posts/First Post/First-blog-SIEVE.html",
+    "title": "SIEVE and The Benefits of Open Source",
     "section": "",
-    "text": "SIEVE and The Benefits of Open Source\n\n\n\n\n\n\nTech\n\n\nCache\n\n\n\n\n\n\n\n\n\nAug 29, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 27, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nme\n\n\n\n\n\n\n\n\n\nAug 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\nNo matching items"
+    "text": "SIEVE and the benefits of Open-Source\nSIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space."
   },
   {
     "objectID": "about.html",
@@ -21,17 +21,17 @@
     "text": "Hi! My name is Noah and I hope you enjoy my writing!"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Noah's Class Blog",
+    "section": "",
+    "text": "SIEVE and The Benefits of Open Source\n\n\n\n\n\n\nTech\n\n\nCache\n\n\n\n\n\n\n\n\n\nAug 29, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 27, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nme\n\n\n\n\n\n\n\n\n\nAug 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/First Post/First-blog-SIEVE.html",
-    "href": "posts/First Post/First-blog-SIEVE.html",
-    "title": "SIEVE and The Benefits of Open Source",
-    "section": "",
-    "text": "SIEVE and the benefits of Open-Source\nSIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space."
   }
 ]
