@@ -1,0 +1,15 @@
+---
+title: "Dark Reading"
+image: "DRimg.jpg"
+author: "Noah Gruba"
+date: "2024-09-04"
+categories: [Security , Tech, Website]
+---
+
+Dark Reading
+
+![](DRimg.jpg)
+
+This website is incredibly helpful for many different reasons. First, it has up-to-date news from around the world including any current attacks and outages, a newsletter you can sign up for to stay up to date on certain topics, mobile security, tips and tricks, and so much more. It is constantly getting updated and has things like introductory learning all the way to tips on how to better implement security measures as a CISO. For that and so many more reasons  see this as a super beneficial resource.
+
+Source: <https://www.darkreading.com/>

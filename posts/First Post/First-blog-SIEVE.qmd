@@ -6,7 +6,8 @@ date: "2024-08-29"
 categories: [Tech , Cache]
 ---
 
-
 SIEVE and the benefits of Open-Source
+
+![](SIEVE.jpg)
 
 SIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space.
