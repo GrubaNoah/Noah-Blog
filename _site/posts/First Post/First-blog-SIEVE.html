@@ -156,6 +156,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>SIEVE and the benefits of Open-Source</p>
+<p><img src="SIEVE.jpg" class="img-fluid"></p>
 <p>SIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space.</p>
 
 
@@ -242,7 +243,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/GrubaNoah\.github\.io\/Noah-Blog\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
