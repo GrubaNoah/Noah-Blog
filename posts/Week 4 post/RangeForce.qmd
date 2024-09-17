@@ -1,0 +1,17 @@
+---
+title: "The Beauty of RangeForce"
+image: "rangeforce.jpg"
+author: "Noah Gruba"
+date: "2024-09-17"
+categories: [Tech , Training, Learninig]
+---
+
+![](images/rangeforce.jpg)
+
+**The Beauty of RangeForce**
+
+By: Noah Gruba
+
+RangeForce is a website with free Cyber security training. It has a ton of modules. It uses virtual machines and real-world scenarios to help get you ready for the real world. It is hands-on and helps you learn how to do things like manage malware all the way to combating modern cyber threats. All in all I have not made it through a ton of these but it does seem to be very well done and is very useful!
+
+Source: <https://www.rangeforce.com/>
