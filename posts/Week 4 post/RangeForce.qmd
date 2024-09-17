@@ -1,6 +1,6 @@
 ---
 title: "The Beauty of RangeForce"
-image: "RangeForce.jpg"
+image: "images/rangeforce.jpg"
 author: "Noah Gruba"
 date: "2024-09-17"
 categories: [Tech , Training, Learninig]
