@@ -1,0 +1,13 @@
+---
+title: "CyberScoop"
+image: "CyperScoop.jpg"
+author: "Noah Gruba"
+date: "2024-09-25"
+categories: [Security , Tech, Website, News]
+---
+
+![](images/CyberScoop.jpg)
+
+CyberScoop is a great resource for all things cybersecurity news! They report on cybersecurity, technology, and data privacy issues. They also mostly focus on the government and enterprise sectors, so it is very informative and also goes into some very serious cyber-attacks. While reading through some of the articles I found stories about CrowdStrike, as well as election interference from Iranian-linked operations. So, I believe this to be a very useful source of news!
+
+Link: <https://cyberscoop.com/>
