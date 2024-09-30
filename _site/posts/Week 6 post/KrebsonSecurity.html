@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Noah Gruba">
-<meta name="dcterms.date" content="2024-09-25">
+<meta name="dcterms.date" content="2024-09-30">
 
-<title>Noah’s Class Blog - CyberScoop</title>
+<title>Noah’s Class Blog - KrebsonSecurity</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -115,12 +115,13 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">CyberScoop</h1>
+      <h1 class="title">KrebsonSecurity</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">Security</div>
                 <div class="quarto-category">Tech</div>
                 <div class="quarto-category">Website</div>
                 <div class="quarto-category">News</div>
+                <div class="quarto-category">Blog</div>
               </div>
                   </div>
   </div>
@@ -138,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 25, 2024</p>
+        <p class="date">September 30, 2024</p>
       </div>
     </div>
     
@@ -157,9 +158,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="images/CyberScoop.jpg" class="img-fluid"></p>
-<p>CyberScoop is a great resource for all things cybersecurity news! They report on cybersecurity, technology, and data privacy issues. They also mostly focus on the government and enterprise sectors, so it is very informative and also goes into some very serious cyber-attacks. While reading through some of the articles I found stories about CrowdStrike, as well as election interference from Iranian-linked operations. So, I believe this to be a very useful source of news!</p>
-<p>Link: <a href="https://cyberscoop.com/" class="uri">https://cyberscoop.com/</a></p>
+<p><img src="images/krebs.jpg" class="img-fluid"></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think Krebs on Security is a wholly beneficial website for anyone interested in cybersecurity. Everything on this website is written in a very digestible manner for any amount of cybersecurity understanding. It is another blog but it is written by a former New York Times employee Brian Krebs. It offers detailed articles on a multitude of different security topics. He is known for being at the forefront of most major cybersecurity news. Including things like data breaches, cybercrime, malware and so much more. A really interesting read is on Joker’s Stash. It’s his most recent blog and is worth the read.</p>
+<p>Source: <a href="https://krebsonsecurity.com/" class="uri">https://krebsonsecurity.com/</a></p>
 
 
 
@@ -245,7 +246,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/GrubaNoah\.github\.io\/Noah-Blog\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

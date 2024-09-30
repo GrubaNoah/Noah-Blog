@@ -7,39 +7,11 @@
     "text": "Hi I’m Noah and I hope you enjoy my page!\n\nHere is a photo of me!"
   },
   {
-    "objectID": "posts/Week 3 Post/CIS.html",
-    "href": "posts/Week 3 Post/CIS.html",
-    "title": "Center for Internet Security",
+    "objectID": "posts/Week 4 post/RangeForce.html",
+    "href": "posts/Week 4 post/RangeForce.html",
+    "title": "The Beauty of RangeForce",
     "section": "",
-    "text": "CIS Center for Internet Security\nThis is a great resource for a ton of different ideas. Like current issues going on in the cyber space. Different case studies, and different ideas on ways to deal with cyber security issues. It is also a convenient place to get information on all current and past cyber incidents.\nSource : https://www.cisecurity.org/"
-  },
-  {
-    "objectID": "posts/First Post/First-blog-SIEVE.html",
-    "href": "posts/First Post/First-blog-SIEVE.html",
-    "title": "SIEVE and The Benefits of Open Source",
-    "section": "",
-    "text": "SIEVE and the benefits of Open-Source\n\nSIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space."
-  },
-  {
-    "objectID": "archive/post-with-code/index.html",
-    "href": "archive/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi! My name is Noah and I hope you enjoy my writing!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Noah's Class Blog",
-    "section": "",
-    "text": "CyberScoop\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nThe Beauty of RangeForce\n\n\n\n\n\n\nTech\n\n\nTraining\n\n\nLearninig\n\n\n\n\n\n\n\n\n\nSep 17, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nCenter for Internet Security\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 9, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nDark Reading\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nSIEVE and The Benefits of Open Source\n\n\n\n\n\n\nTech\n\n\nCache\n\n\n\n\n\n\n\n\n\nAug 29, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nme\n\n\n\n\n\n\n\n\n\nAug 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\nNo matching items"
+    "text": "The Beauty of RangeForce\nBy: Noah Gruba\nRangeForce is a website with free Cyber security training. It has a ton of modules. It uses virtual machines and real-world scenarios to help get you ready for the real world. It is hands-on and helps you learn how to do things like manage malware all the way to combating modern cyber threats. All in all I have not made it through a ton of these but it does seem to be very well done and is very useful!\nSource: https://www.rangeforce.com/"
   },
   {
     "objectID": "posts/Week 2 Post/DarkReading.html",
@@ -49,11 +21,39 @@
     "text": "Dark Reading\n\nThis website is incredibly helpful for many different reasons. First, it has up-to-date news from around the world including any current attacks and outages, a newsletter you can sign up for to stay up to date on certain topics, mobile security, tips and tricks, and so much more. It is constantly getting updated and has things like introductory learning all the way to tips on how to better implement security measures as a CISO. For that and so many more reasons  see this as a super beneficial resource.\nSource: https://www.darkreading.com/"
   },
   {
-    "objectID": "posts/Week 4 post/RangeForce.html",
-    "href": "posts/Week 4 post/RangeForce.html",
-    "title": "The Beauty of RangeForce",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Noah's Class Blog",
     "section": "",
-    "text": "The Beauty of RangeForce\nBy: Noah Gruba\nRangeForce is a website with free Cyber security training. It has a ton of modules. It uses virtual machines and real-world scenarios to help get you ready for the real world. It is hands-on and helps you learn how to do things like manage malware all the way to combating modern cyber threats. All in all I have not made it through a ton of these but it does seem to be very well done and is very useful!\nSource: https://www.rangeforce.com/"
+    "text": "KrebsonSecurity\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\n\n\n\n\n\n\n\nSep 30, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nCyberScoop\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nThe Beauty of RangeForce\n\n\n\n\n\n\nTech\n\n\nTraining\n\n\nLearninig\n\n\n\n\n\n\n\n\n\nSep 17, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nCenter for Internet Security\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 9, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nDark Reading\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nSIEVE and The Benefits of Open Source\n\n\n\n\n\n\nTech\n\n\nCache\n\n\n\n\n\n\n\n\n\nAug 29, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nme\n\n\n\n\n\n\n\n\n\nAug 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! My name is Noah and I hope you enjoy my writing!"
+  },
+  {
+    "objectID": "archive/post-with-code/index.html",
+    "href": "archive/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1"
+  },
+  {
+    "objectID": "posts/First Post/First-blog-SIEVE.html",
+    "href": "posts/First Post/First-blog-SIEVE.html",
+    "title": "SIEVE and The Benefits of Open Source",
+    "section": "",
+    "text": "SIEVE and the benefits of Open-Source\n\nSIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space."
+  },
+  {
+    "objectID": "posts/Week 3 Post/CIS.html",
+    "href": "posts/Week 3 Post/CIS.html",
+    "title": "Center for Internet Security",
+    "section": "",
+    "text": "CIS Center for Internet Security\nThis is a great resource for a ton of different ideas. Like current issues going on in the cyber space. Different case studies, and different ideas on ways to deal with cyber security issues. It is also a convenient place to get information on all current and past cyber incidents.\nSource : https://www.cisecurity.org/"
   },
   {
     "objectID": "posts/Week 5 Post/cyberscooppost.html",
@@ -61,5 +61,12 @@
     "title": "CyberScoop",
     "section": "",
     "text": "CyberScoop is a great resource for all things cybersecurity news! They report on cybersecurity, technology, and data privacy issues. They also mostly focus on the government and enterprise sectors, so it is very informative and also goes into some very serious cyber-attacks. While reading through some of the articles I found stories about CrowdStrike, as well as election interference from Iranian-linked operations. So, I believe this to be a very useful source of news!\nLink: https://cyberscoop.com/"
+  },
+  {
+    "objectID": "posts/Week 6 post/KrebsonSecurity.html",
+    "href": "posts/Week 6 post/KrebsonSecurity.html",
+    "title": "KrebsonSecurity",
+    "section": "",
+    "text": "I think Krebs on Security is a wholly beneficial website for anyone interested in cybersecurity. Everything on this website is written in a very digestible manner for any amount of cybersecurity understanding. It is another blog but it is written by a former New York Times employee Brian Krebs. It offers detailed articles on a multitude of different security topics. He is known for being at the forefront of most major cybersecurity news. Including things like data breaches, cybercrime, malware and so much more. A really interesting read is on Joker’s Stash. It’s his most recent blog and is worth the read.\nSource: https://krebsonsecurity.com/"
   }
 ]

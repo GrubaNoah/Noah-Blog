@@ -1,0 +1,13 @@
+---
+title: "KrebsonSecurity"
+image: "krebs.jpg"
+author: "Noah Gruba"
+date: "2024-09-30"
+categories: [Security , Tech, Website, News, Blog]
+---
+
+![](images/krebs.jpg)
+
+               I think Krebs on Security is a wholly beneficial website for anyone interested in cybersecurity. Everything on this website is written in a very digestible manner for any amount of cybersecurity understanding. It is another blog but it is written by a former New York Times employee Brian Krebs. It offers detailed articles on a multitude of different security topics. He is known for being at the forefront of most major cybersecurity news. Including things like data breaches, cybercrime, malware and so much more. A really interesting read is on Joker’s Stash. It’s his most recent blog and is worth the read.
+
+Source: <https://krebsonsecurity.com/>
