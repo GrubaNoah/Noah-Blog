@@ -1,6 +1,5 @@
 ---
 title: "CyberScoop"
-image: "CyperScoop.jpg"
 author: "Noah Gruba"
 date: "2024-09-25"
 categories: [Security , Tech, Website, News]
