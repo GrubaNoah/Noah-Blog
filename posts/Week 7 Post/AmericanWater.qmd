@@ -1,0 +1,12 @@
+---
+title: "AmericanWaterAttack"
+author: "Noah Gruba"
+date: "2024-10-09"
+categories: [Security , Tech, Website, News, Blog, Attack]
+---
+
+![](images/American_Water_Works_Company_Logo.svg.png)
+
+American Water is the largest publicly traded water utility company. They recently experienced a cyberattack. The cyberattack shut down its online customer portal, billing and other services. They hired a third-party cybersecurity company to help assess and fix the breach. They also coordinated with law enforcement to help identify attackers and investigate the incident. They are starting to believe this was a coordinated attack backed by either a Russian or Chinese government. As both have tried and succeeded to do this before.
+
+Source: <https://www.bleepingcomputer.com/news/security/american-water-shuts-down-online-services-after-cyberattack/>

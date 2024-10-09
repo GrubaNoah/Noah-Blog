@@ -1,6 +1,5 @@
 ---
 title: "KrebsonSecurity"
-image: "krebs.jpg"
 author: "Noah Gruba"
 date: "2024-09-30"
 categories: [Security , Tech, Website, News, Blog]
