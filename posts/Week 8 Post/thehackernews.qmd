@@ -1,0 +1,14 @@
+---
+title: "AmericanWaterAttack"
+author: "Noah Gruba"
+date: "2024-10-16"
+categories: [Security , Tech, Website, News, Blog]
+---
+
+![](images/matrix-hacker-background-02.jpg)
+
+The Hacker News
+
+The Hacker News is an excellent source of Cyber Security news. It has many stories the one that first caught my eye was Mastering the Art of Cybersecurity with AI, it pertains to my group project, It redirects you to a course held on Nvidia’s website and teaches you about Morpheus, which is their AI security framework. I am very interested in diving into this. It gives you a strong overview and then hands-on labs! But overall on The Hacker News, you can find anything from these free lab redirects to well-written articles on things like combating different attacks and how to best prepare your system.
+
+Source: <https://thehackernews.com/>
