@@ -1,0 +1,14 @@
+---
+title: "US Cybersecurity Officials Warn about meddling in elections"
+author: "Noah Gruba"
+date: "2024-10-29"
+categories: [Security , Tech, Website, News, Blog, AI, Government]
+---
+
+![](images/Ivoted.jpg){width="726"}
+
+US Cybersecurity Officials Warn about meddling in elections
+
+                No matter what side of the isle your political beliefs lie on I think we can all agree that foreign actors trying to change our elections is something we cannot have. This is a growing threat to democracy as we know it. The more our elections become more reliant on computers the more this will happen. I do think it is interesting because I think with good cyber security and potentially forensics, if necessary, it would be a significantly more secure system then just pencil and paper. However, there are very real dangers. There have been vast claims of disinformation coming from outside the country the last few elections and I don’t think that is going to change anytime soon. However, I think at some point there may be a direct attack on voting systems. Which could delegitimize the whole process.
+
+Source: <https://www.pbs.org/newshour/show/u-s-cybersecurity-officials-warn-of-foreign-efforts-to-sow-doubt-and-chaos-around-election>
