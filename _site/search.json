@@ -35,18 +35,11 @@
     "text": "Dark Reading\n\nThis website is incredibly helpful for many different reasons. First, it has up-to-date news from around the world including any current attacks and outages, a newsletter you can sign up for to stay up to date on certain topics, mobile security, tips and tricks, and so much more. It is constantly getting updated and has things like introductory learning all the way to tips on how to better implement security measures as a CISO. For that and so many more reasons  see this as a super beneficial resource.\nSource: https://www.darkreading.com/"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Noah's Class Blog",
+    "objectID": "posts/First Post/First-blog-SIEVE.html",
+    "href": "posts/First Post/First-blog-SIEVE.html",
+    "title": "SIEVE and The Benefits of Open Source",
     "section": "",
-    "text": "AmericanWaterAttack\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\nAI\n\n\n\n\n\n\n\n\n\nOct 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nAmericanWaterAttack\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\n\n\n\n\n\n\n\nOct 16, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nAmericanWaterAttack\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\nAttack\n\n\n\n\n\n\n\n\n\nOct 9, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nKrebsonSecurity\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\n\n\n\n\n\n\n\nSep 30, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nCyberScoop\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nThe Beauty of RangeForce\n\n\n\n\n\n\nTech\n\n\nTraining\n\n\nLearninig\n\n\n\n\n\n\n\n\n\nSep 17, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nCenter for Internet Security\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 9, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nDark Reading\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nSIEVE and The Benefits of Open Source\n\n\n\n\n\n\nTech\n\n\nCache\n\n\n\n\n\n\n\n\n\nAug 29, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nme\n\n\n\n\n\n\n\n\n\nAug 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi! My name is Noah and I hope you enjoy my writing!"
+    "text": "SIEVE and the benefits of Open-Source\n\nSIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space."
   },
   {
     "objectID": "archive/post-with-code/index.html",
@@ -56,11 +49,25 @@
     "text": "This is a post with executable code.\n\n1 + 1"
   },
   {
-    "objectID": "posts/First Post/First-blog-SIEVE.html",
-    "href": "posts/First Post/First-blog-SIEVE.html",
-    "title": "SIEVE and The Benefits of Open Source",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "SIEVE and the benefits of Open-Source\n\nSIEVE is the brainchild of computer scientists from Emory University, Carnegie Mellon University and the Pelikan Foundation. But is Co-First Authored by Yazhuo Zhang who recently accepted a postdoctoral fellowship at the Federal Institute of Technology in Zurich. SIEVE is a new way to decide what items should be tossed from a web cache. The beauty of what they have done is it is open source. So not only the scientist from these prestige universities can be the one to work on this but anyone who has an idea can have their input. I think this Is one of the most beneficial changes to computer science. The fact that more people are willing to have their work be open source so we can faster improve in this space."
+    "text": "Hi! My name is Noah and I hope you enjoy my writing!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Noah's Class Blog",
+    "section": "",
+    "text": "US Cybersecurity Officials Warn about meddling in elections\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\nAI\n\n\nGovernment\n\n\n\n\n\n\n\n\n\nOct 29, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nAmericanWaterAttack\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\nAI\n\n\n\n\n\n\n\n\n\nOct 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nAmericanWaterAttack\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\n\n\n\n\n\n\n\nOct 16, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nAmericanWaterAttack\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\nAttack\n\n\n\n\n\n\n\n\n\nOct 9, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nKrebsonSecurity\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\nBlog\n\n\n\n\n\n\n\n\n\nSep 30, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nCyberScoop\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\nNews\n\n\n\n\n\n\n\n\n\nSep 25, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nThe Beauty of RangeForce\n\n\n\n\n\n\nTech\n\n\nTraining\n\n\nLearninig\n\n\n\n\n\n\n\n\n\nSep 17, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nCenter for Internet Security\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 9, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nDark Reading\n\n\n\n\n\n\nSecurity\n\n\nTech\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nSIEVE and The Benefits of Open Source\n\n\n\n\n\n\nTech\n\n\nCache\n\n\n\n\n\n\n\n\n\nAug 29, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nme\n\n\n\n\n\n\n\n\n\nAug 24, 2024\n\n\nNoah Gruba\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Week 10 Post/votingscares.html",
+    "href": "posts/Week 10 Post/votingscares.html",
+    "title": "US Cybersecurity Officials Warn about meddling in elections",
+    "section": "",
+    "text": "US Cybersecurity Officials Warn about meddling in elections\n                No matter what side of the isle your political beliefs lie on I think we can all agree that foreign actors trying to change our elections is something we cannot have. This is a growing threat to democracy as we know it. The more our elections become more reliant on computers the more this will happen. I do think it is interesting because I think with good cyber security and potentially forensics, if necessary, it would be a significantly more secure system then just pencil and paper. However, there are very real dangers. There have been vast claims of disinformation coming from outside the country the last few elections and I don’t think that is going to change anytime soon. However, I think at some point there may be a direct attack on voting systems. Which could delegitimize the whole process.\nSource: https://www.pbs.org/newshour/show/u-s-cybersecurity-officials-warn-of-foreign-efforts-to-sow-doubt-and-chaos-around-election"
   },
   {
     "objectID": "posts/Week 3 Post/CIS.html",

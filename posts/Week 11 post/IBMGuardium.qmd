@@ -1,0 +1,12 @@
+---
+title: "IBM Guardium a Next Generation Tool"
+author: "Noah Gruba"
+date: "2024-11-08"
+categories: [Tech , Tool, AI]
+---
+
+![](images/ibmlogo.jpg)
+
+IBM Guardium the future of AI is now IBM Guardium is as currently in use AI cybersecurity tool. The four words that pop across the banner of the page when you first access the web page are Discover, Protect, Analyze , and Respond. These are very apt as the tool Guardium does exactly this. The main focus for it are on automating data discovery and classification, meaning it specializes in finding data and the seeing if said data has ny vulnerabilities. I do this human intervention is necessary on the back end to confirm this but it could definitely be a useful tool. Another thing it does is monitor the data it finds and helps to protect it. It can give real time monitoring and you don’t need to have people on the clock. Once again if you are willing to give the program access to the data I can see how as a corporation this would be beneficial in bottom line protection.
+
+Source: https://www.ibm.com/guardium
