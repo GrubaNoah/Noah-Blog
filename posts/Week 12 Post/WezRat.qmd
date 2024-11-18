@@ -1,0 +1,14 @@
+---
+title: "Iranian Hackers Deploy WezRat Malware Attacks Targeting Israeli Organizations"
+author: "Noah Gruba"
+date: "2024-11-17"
+categories: [Tech , Tool, Attack,Hacker]
+---
+
+Iranian Hackers Deploy WezRat Malware Attacks Targeting Israeli Organizations
+
+![](images/clipboard-575834010.png)
+
+                Cotton Sandstorm deployed a new malware called WezRat. It is called RAT because it is a remote access trojan. It helps with reconnaissance, executing commands, and exfiltrating data. It has been distributed through phishing attacks targeting Israeli organizations. Utilizing the Director of Cyber Directorate and urging users to install a google chrome update. This is interesting because one of the only fixes is constant training for things like this.
+
+Source: https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html
